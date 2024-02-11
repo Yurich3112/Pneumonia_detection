@@ -21,3 +21,5 @@ https://universe.roboflow.com/pespython/pneumonia-ojjms/dataset/1
 
 Як запустити та відтворити рішення: Модель тренувалася у Collab Notebook. Тестування моделі та сабмішн - в Kaggle Notebook. Для зручності та перевірки рішення надається посилання на Kaggle Notebook з тестуванням моделі 
 а також Collab notebook з тренуванням. 
+Kaggle Notebook https://www.kaggle.com/code/yuriiholovko/pneumonia
+Collab notebook: https://colab.research.google.com/drive/1w53oNSwEB-oo4N9bnV6LiREtHPF5ZbyC#scrollTo=VUOiNLtMP5aG
