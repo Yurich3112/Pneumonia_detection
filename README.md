@@ -24,4 +24,4 @@ https://universe.roboflow.com/pespython/pneumonia-ojjms/dataset/1
 
 Kaggle Notebook https://www.kaggle.com/code/yuriiholovko/pneumonia
 
-Collab notebook: https://colab.research.google.com/drive/1w53oNSwEB-oo4N9bnV6LiREtHPF5ZbyC#scrollTo=VUOiNLtMP5aG
+Collab notebook: https://colab.research.google.com/drive/1w53oNSwEB-oo4N9bnV6LiREtHPF5ZbyC?usp=sharing
