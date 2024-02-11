@@ -8,3 +8,6 @@ pydicom
 requests
 scipy>=1.4.1
 tqdm>=4.41.0
+roboflow
+PyYAML
+ipython
